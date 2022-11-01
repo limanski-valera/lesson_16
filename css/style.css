@@ -64,7 +64,7 @@ body{
     max-width: 100%;
 }
 .questions__content {
-    padding-left: 105px;
+    padding-left: 8.5%;
     flex: 0 1 65%;
 }
 .questions__heading {
